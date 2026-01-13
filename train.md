@@ -1,3 +1,3 @@
 # Arch
 
-Densenet
+Densenet-121
